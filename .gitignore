@@ -25,3 +25,4 @@ venv
 .vscode
 __pycache__
 /assets/
+/qmix

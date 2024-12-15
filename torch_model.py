@@ -31,3 +31,4 @@ class QNetwork(nn.Module):
             batchsize = x.shape[0]
         x = x.reshape(batchsize, -1)
         return self.network(x)
+
