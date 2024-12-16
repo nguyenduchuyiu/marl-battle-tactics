@@ -12,6 +12,7 @@ Your agent's performance should be evaluated based on reward and win rate agains
 <p align="center">
   <img src="assets/random.gif" width="300" alt="random agent" />
   <img src="assets/pretrained.gif" width="300" alt="pretrained agent" />
+  <img src="video/huy_vs_pretrained.gif" width="300" alt="pretrained_vs huy" />
 </p>
 
 See `video` folder for a demo of how each type of opponent behaves.
