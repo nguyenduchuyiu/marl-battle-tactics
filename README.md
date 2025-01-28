@@ -17,6 +17,9 @@ Your agent's performance should be evaluated based on reward and win rate agains
 
 See `video` folder for a demo of how each type of opponent behaves.
 
+### Report
+View my report here: [Reinforcement Learning Project Documentation](Reinforcement_Learning_Project.pdf)
+
 ## Installation
 clone this repo and install with
 ```
