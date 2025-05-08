@@ -1,4 +1,4 @@
-# MAgent2 RL Final Project
+# Multi-Agent Battle Tactics
 ## Overview  
 This project involved training an RL agent in the MAgent2 `battle` environment and evaluating it against three opponents: random agents, a pretrained agent, and a final stronger agent. Performance was measured by reward and win rate while controlling *blue* agents.  
 
